@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sonomos
+# SONOMOS
 
 **Protection at the point of creation.**
 
