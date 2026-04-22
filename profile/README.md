@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="profile/images/Sonomos-readme.png" style="max-width:100%; height:auto;" />
+</p>
+
 # SONOMOS
 
 **Protection at the point of creation.**
