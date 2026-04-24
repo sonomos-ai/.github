@@ -44,9 +44,8 @@ Counts every piece of sensitive data you expose across all sessions. 16 regex de
 
 | Surface | What it does | Status |
 |---------|-------------|--------|
-| **Browser Extension** | Detects and masks PII in real time across Claude, ChatGPT, Gemini, and any AI tool — before data leaves the browser | Private beta |
-| **Desktop Engine** | On-device PII detection with format-preserving encryption, image pipeline (face/NSFW/OCR redaction), cognitive firewall | In development |
-| **MCP Gateway** | Privacy proxy for MCP tool calls — masks PII flowing between AI agents and downstream servers (filesystem, GitHub, Slack) | In development |
+| **Browser Extension** | Detects and masks sensitive data in real time across Claude, ChatGPT, Gemini, and any AI tool — before data leaves the browser | **Public** |
+| **Desktop Engine** | On-device sensitive data detection with format-preserving encryption, image pipeline (face/NSFW/OCR redaction), cognitive firewall | In development |
 | **Canary** | PII exposure counter for Claude Code — shows what you have already leaked | **Public** |
 
 Everything local. Everything on-device. No exceptions.
