@@ -44,6 +44,7 @@ Counts every piece of sensitive data you expose across all sessions. 16 regex de
 | Surface | What it does | Status |
 |---------|-------------|--------|
 | **Locke** | On-device sensitive data detection with format-preserving encryption, image pipeline (face/NSFW/OCR redaction), cognitive firewall | In development |
+| **Named Entity Recognition Validation Engine** | An open-source, deterministic NER benchmark testing harness for evaluating sensitive data detection | In development |
 | **Canary** | PII exposure counter for Claude Code — shows what you have already leaked | **Public** |
 
 Everything local. Everything on-device. No exceptions.
